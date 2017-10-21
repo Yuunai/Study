@@ -3,3 +3,6 @@ bin/
 build/
 build/*
 /.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+**/target/
